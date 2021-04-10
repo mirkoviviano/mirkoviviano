@@ -9,4 +9,4 @@
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/mirkoviviano?tab=repositories) and [mirkoviviano.it](mirkoviviano.it)
 
-- 📫 How to reach me **info@mirkoviviano.it** or [https://linkedin.com/in/mirkoviviano](https://linkedin.com/in/mirkoviviano)
+- 📫 How to reach me **info@mirkoviviano.it** or [LinkedIN](https://linkedin.com/in/mirkoviviano)
