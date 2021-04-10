@@ -7,6 +7,6 @@
 
 - 🌱 I’m currently learning **ReactJS** and improving my **C/C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mirkoviviano?tab=repositories](https://github.com/mirkoviviano?tab=repositories) and [mirkoviviano.it](mirkoviviano.it)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/mirkoviviano?tab=repositories) and [mirkoviviano.it](mirkoviviano.it)
 
 - 📫 How to reach me **info@mirkoviviano.it** or [https://linkedin.com/in/mirkoviviano](https://linkedin.com/in/mirkoviviano)
